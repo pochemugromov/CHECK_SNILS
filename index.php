@@ -45,7 +45,7 @@
 	<?php
 	mb_internal_encoding("UTF-8");
 	?>
-	<script src="script.js"></script>
+	<script src="script.ts"></script>
 </body>
 
 </html>
